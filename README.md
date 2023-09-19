@@ -1,4 +1,4 @@
-Prediction of Diabetes using XGBoost and CatBoost
+# Prediction of Diabetes using XGBoost and CatBoost
 
 Diabetes is a chronic ailment with a global impact, affecting a significant number of individuals and potentially leading to severe health complications if not properly managed. Early detection and prediction of diabetes can play a crucial role in ensuring timely treatment and preventing the onset of complications. Machine learning models such as XGBoost and CatBoost offer powerful tools for predicting diabetes based on patient data. By delivering accurate predictions, these models enable healthcare professionals to make informed decisions and enhance patient outcomes.
 
